@@ -1,0 +1,65 @@
+{
+    "houses": [
+      {
+        "name": "Modern Villa",
+        "image": "https://www.thewowstyle.com/wp-content/uploads/2015/01/home-decor-5187c3b1b3fc4b4d520000b9-vivienda-m2-monovolume-architecture-design-villa-moritzing-07-architecture-designs.jpg",
+        "base_price_usd": 450000,
+        "description": "A luxurious modern villa with 4 bedrooms, a swimming pool, and a spacious garden."
+      },
+      {
+        "name": "Cozy Cottage",
+        "image": "https://i.pinimg.com/originals/ce/be/a2/cebea2374090227880de495db47919de.jpg",
+        "base_price_usd": 250000,
+        "description": "A charming countryside cottage with 2 bedrooms, a fireplace, and a scenic view."
+      },
+      {
+        "name": "Urban Apartment",
+        "image": "https://images1.apartments.com/i2/akbvCyQjJ8amkM0YZMRvTsNSe8lOLIzpIx21jA0Ts8Q/111/so7-parkside-urban-apartments-fort-worth-tx-primary-photo.jpg",
+        "base_price_usd": 300000,
+        "description": "A stylish apartment in the city center with 3 bedrooms, a balcony, and modern amenities."
+      },
+      {
+        "name": "Beachfront Bungalow",
+        "image": "https://th.bing.com/th/id/OIP.FM56o7c8XQQiR0vXlFoZGgHaE8?rs=1&pid=ImgDetMain",
+        "base_price_usd": 500000,
+        "description": "A beautiful beachfront bungalow with direct sea access and a private deck."
+      },
+      {
+        "name": "Luxury Penthouse",
+        "image": "https://i.pinimg.com/originals/f2/88/01/f28801c975f3d38fe4015bcae7d01cef.jpg",
+        "base_price_usd": 750000,
+        "description": "A high-rise penthouse with a rooftop terrace, offering breathtaking city views."
+      },
+      {
+        "name": "Suburban Family Home",
+        "image": "https://u.realgeeks.media/adamsalas/area_nine-mile-falls.jpg",
+        "base_price_usd": 400000,
+        "description": "A spacious 5-bedroom house in a peaceful suburban neighborhood."
+      },
+      {
+        "name": "Rustic Farmhouse",
+        "image": "https://th.bing.com/th/id/OIP.ZMKvUs4_2KzZaGuOk6qpqQHaHa?rs=1&pid=ImgDetMain",
+        "base_price_usd": 275000,
+        "description": "A traditional farmhouse with vast farmland, perfect for nature lovers."
+      },
+      {
+        "name": "Mountain Cabin",
+        "image": "https://th.bing.com/th/id/OIP.pyBXw1BQWIv9X8CmVbrYRgHaEo?rs=1&pid=ImgDetMain",
+        "base_price_usd": 320000,
+        "description": "A cozy cabin in the mountains with breathtaking panoramic views."
+      },
+      {
+        "name": "Lakeview Retreat",
+        "image": "https://th.bing.com/th/id/OIP.ScM2qaP-mKNE38vqZmkezgHaE8?rs=1&pid=ImgDetMain",
+        "base_price_usd": 600000,
+        "description": "A beautiful lakeside retreat with private dock access."
+      },
+      {
+        "name": "Minimalist Studio",
+        "image": "https://th.bing.com/th/id/OIP.a6zmHZElIsp7Biux5kaK4wHaEo?rs=1&pid=ImgDetMain",
+        "base_price_usd": 180000,
+        "description": "A small but stylish studio apartment designed for efficiency and comfort."
+      }
+    ]
+  }
+  
